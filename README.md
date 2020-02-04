@@ -10,7 +10,7 @@ B -- GRPC--> C[Rest Api Service]
 You can run this application in three way:
 - In starting the three apps individually.
 - Using Docker-compose included.
-- Minikube with de yaml deployment files in k8s
+- Minikube with yaml deployment files in k8s
 ## Individual start
 ### Steps
 - In the folder server : go run main.do
